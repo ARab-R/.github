@@ -1,1 +1,1 @@
-ARab-R vision is to create a sustainable capacity building for Arabic R users and to support Arabic R users through networking and increasing their visibility to drive the creation of more useR/R-Ladies groups in the region.
+ARab-R vision is to create a sustainable capacity building for Arabic R users and to support them through networking, increasing their visibility and drive the creation of more useR/R-Ladies groups in the region.
